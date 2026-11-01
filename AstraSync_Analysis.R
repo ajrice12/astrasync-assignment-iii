@@ -1,6 +1,6 @@
-# AI use (November 1, 2026): I used ChatGPT to help generate and revise
-# the calculations, simulation, plots, decision tree, sensitivity analysis,
-# and dashboard code. I also used Copilot for dashboard assistance.
+# AI use (November 1, 2026): I used ChatGPT and Copilot to help generate
+# and revise the calculations, simulation, plots, decision tree,
+# sensitivity analysis, and dashboard code.
 
 # I run this whole file to make the charts and dashboard.
 packages_needed <- c("ggplot2", "base64enc")
